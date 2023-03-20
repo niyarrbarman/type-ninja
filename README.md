@@ -10,4 +10,5 @@ To install and run the game locally, follow these steps:
 cd type-ninja
 npm start </code></pre>
 
-The game should now be running on http://localhost:3000/.
+The game is live [here](https://type-ninja.vercel.app/).
+
