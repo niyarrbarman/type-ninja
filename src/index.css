@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base{
+    body {
+        @apply grid place-items-center font-mono bg-neutral-900 px-4 lg:mx-72 md:mx-24 sm:mx-5;
+    }
+}

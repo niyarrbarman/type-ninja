@@ -1,0 +1,1 @@
+const data = "In this activity you will read through a worked example of a short literature review. Notice that the topic is addressed including the specific variables. Although your literature review will be comprised of more than three articles notice the processes involved "
